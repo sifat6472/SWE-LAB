@@ -1,7 +1,7 @@
 print("Team Collaboration Project Started")
 
 def dev1():
-    return "Hello from Dev 5 ..JUnayeD.."
+    return "Hello from Dev 1 -- Sifat"
 
 def juhaer():
     return "Hello from Juhaer"
