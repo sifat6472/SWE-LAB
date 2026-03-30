@@ -5,6 +5,5 @@ def dev5():
 def J():
     return " this is Junayed"
 
-
 if __name__ == "__main__":
     print(dev5)
